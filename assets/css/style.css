@@ -1,0 +1,37 @@
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: rgb(70, 70, 153);
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: lightcoral;
+    color: rgb(67, 67, 167);
+}
+
+@media screen and (max-width: 480px) {
+    .movImage {
+        width: 500px;
+        height: 500px;
+    }
+    body {
+        background-color: red;
+    }
+}
+
+.form-control {
+    width: 35%;
+}
+
+#add {
+    font-size: 20px;
+    color: rgb(70, 70, 153);
+}
+.add-topic {
+    color: brown;
+}
